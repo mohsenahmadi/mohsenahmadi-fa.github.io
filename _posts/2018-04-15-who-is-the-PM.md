@@ -1,6 +1,6 @@
 ---
 title: مدیریت محصول چیست یا کی باید چی‌کار کنه؟
-tags: [مدیریت محصول, مدیر محصول]
+tags: [مدیریت محصول]
 style: fill
 color: success
 description:

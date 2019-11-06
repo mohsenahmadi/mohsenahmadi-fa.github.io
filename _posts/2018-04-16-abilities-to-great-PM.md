@@ -1,6 +1,6 @@
 ---
 title: بیست توانایی تا رسیدن به یک مدیرمحصول بیست
-tags: [مدیریت محصول, مدیر محصول]
+tags: [مدیریت محصول]
 style: fill
 color: dark
 description:

@@ -1,6 +1,6 @@
 ---
 title: کارفرمای بی‌وجدان، ناآگاهی کارگر یا خلاءهای قانون کار؟
-tags: [مدیریت, تجربه, کسب‌وکار]
+tags: [کسب‌وکار]
 style: fill
 color: primary
 description:
