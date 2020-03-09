@@ -1,6 +1,10 @@
 User-agent: *
+User-agent: Googlebot
+Allow: /auth/google
+Allow: /auth/facebook
 Sitemap: {{ site.url }}/sitemap.xml
 Disallow: /Gemfile.lock
 Disallow: /Gemfile
 Disallow: /_config.yml
 Disallow: /assets/*
+
