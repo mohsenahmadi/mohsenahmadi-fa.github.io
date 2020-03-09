@@ -1,8 +1,15 @@
 User-agent: *
+Allow: /
 User-agent: Googlebot
+Allow: /
 User-agent: Smartphone
 Allow: /
-Sitemap: {{ site.url }}/sitemap.xml
+User-agent: Googlebot-Image
+Allow: /
+
+Allow: /
+Sitemap: https://fa.ahmadi.pm/sitemap.xml
+Sitemap: https://fa.ahmadi.pm/post-sitemap.xml
 Disallow: /Gemfile.lock
 Disallow: /Gemfile
 Disallow: /_config.yml
