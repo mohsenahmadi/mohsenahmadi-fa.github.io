@@ -14,4 +14,3 @@ Disallow: /Gemfile.lock
 Disallow: /Gemfile
 Disallow: /_config.yml
 Disallow: /assets/*
-
