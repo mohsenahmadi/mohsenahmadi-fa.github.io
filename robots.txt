@@ -1,8 +1,6 @@
 User-agent: *
 User-agent: Googlebot
-User-agent: Googlebot desktop
-Allow: /auth/google
-Allow: /auth/facebook
+Allow: /
 Sitemap: {{ site.url }}/sitemap.xml
 Disallow: /Gemfile.lock
 Disallow: /Gemfile
