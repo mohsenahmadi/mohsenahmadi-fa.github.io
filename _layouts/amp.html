@@ -1,0 +1,5 @@
+{% if page.path contains '_posts' %}
+  {% unless page.skip_amp %}
+    <link rel="amphtml" href="{{ page.id | prepend: '/YOURDIR' | prepend: site.baseurl | prepend: site.url }}">
+  {% endunless %}
+{% endif %}
