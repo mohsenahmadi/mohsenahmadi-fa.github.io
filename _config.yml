@@ -1,20 +1,32 @@
 ### Site Settings ###
-title               : "مقالات محسن احمدی، مدیر محصول، مدیر پروژه، مربی اجایل"
-tagline             : یادداشت‌های مرتبط با مدیریت پروژه، مدیریت محصول و تفکر چابک
-description         : >-                               # >- means to ignore newlines until "url:"
-                      محسن احمدی، مدیر محصول، مدیر پروژه، مدرس، منتور و مشاور کسب‌وکارهای نوپا و استارتاپ‌ها، مربی اجایل، چابک
+title               : "محسن احمدی، مدیر محصول، اسکرام مستر، مربی اجایل"
+tagline             : "یادداشت‌های مرتبط با مدیریت پروژه، مدیریت محصول و تفکر چابک"
+description         : "مجموعه یادداشت‌های محسن احمدی از مدیریت محصول، مدیریت پروژه و مربی‌گری چابک (اجایل) با سابقه همکاری با گروه اینترنتی ایران، بانک آینده، بانک پاسارگاد واستارتاپ‌های توانمند ایرانی"                               # >- means to ignore newlines until "url:"
 
 url                 : "https://fa.ahmadi.pm"                               # base hostname & protocol for your site (e.g. http://example.com)
-baseurl             : ""                               # subpath of your site (e.g. /blog) [IMPORTANT: use "" if your are hosting at https://username.github.io directly]
+baseurl             : "https://ahmadi.pm"                               # subpath of your site (e.g. /blog) [IMPORTANT: use "" if your are hosting at https://username.github.io directly]
 repository          : mohsenahmadi/mohsenahmadi        # repository metadata on GitHub Pages [know more at https://help.github.com/en/articles/repository-metadata-on-github-pages]
+
 twitter:
   username: ahmadi_pm
   card: summary
 
+logo: /assets/fav/android-chrome-192x192.png
+
+social:
+  name: Mohsen Ahmadi
+  links:
+    - https://twitter.com/ahmadi_pm
+    - https://www.facebook.com/mohsenahmadii
+    - https://www.linkedin.com/in/mohsenahmadii
+    - https://github.com/mohsenahmadi
+
+lang: fa_IR
+
 ### Author Info ###
 author:
   name              : محسن احمدی
-  image             : https://bit.ly/2KCvgVJ
+  image             : https://fa.ahmadi.pm/assets/fav/android-chrome-192x192.png
   email             : mohsen@ahmadi.pm
   facebook          : ahmadipm-336513290601728/
   github            : mohsenahmadi
@@ -30,7 +42,7 @@ author:
 
 
 ### Pagination ###
-paginate: 6
+paginate: 4
 paginate_path: "/articles/page-:num/"
 
 
