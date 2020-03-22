@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://fa.ahmadi.pm/feed.xml" rel="self" type="application/atom+xml" /><link href="https://fa.ahmadi.pm/" rel="alternate" type="text/html" /><updated>2020-03-23T02:34:16+04:30</updated><id>https://fa.ahmadi.pm/feed.xml</id><title type="html">محسن احمدی؛ مدیر محصول، مدیر پروژه، اسکرام مستر و مربی اجایل</title><subtitle>محسن احمدی؛ مدیر محصول اسنپ‌تریپ، مدیر پروژه بانک آینده، اسکرام مستر داتین، منتور مدیریت پروژه تیوان، دانشگاه خواجه نصیر، هم‌آهنگ، می‌بینیم، سومین، وندا، پیوست</subtitle><author><name>محسن احمدی</name><email>mohsen@ahmadi.pm</email></author><entry><title type="html">ریلیزنوت؛ یا لیستی از آخرین به‌روز رسانی‌های انجام شده در سایت</title><link href="https://fa.ahmadi.pm/articles/release-note-march-2020" rel="alternate" type="text/html" title="ریلیزنوت؛ یا لیستی از آخرین به‌روز رسانی‌های انجام شده در سایت" /><published>2020-03-22T00:00:00+04:30</published><updated>2020-03-22T00:00:00+04:30</updated><id>https://fa.ahmadi.pm/articles/release-note-march-2020</id><content type="html" xml:base="https://fa.ahmadi.pm/articles/release-note-march-2020">&lt;p&gt;&lt;img src=&quot;https://fa.ahmadi.pm/assets/imgpsts/latest-changes.jpeg&quot; alt=&quot;ریلیز نوت یا لیست آخرین به‌روز رسانی‌ها&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://fa.ahmadi.pm/feed.xml" rel="self" type="application/atom+xml" /><link href="https://fa.ahmadi.pm/" rel="alternate" type="text/html" /><updated>2020-03-23T02:38:48+04:30</updated><id>https://fa.ahmadi.pm/feed.xml</id><title type="html">محسن احمدی؛ مدیر محصول، مدیر پروژه، اسکرام مستر و مربی اجایل</title><subtitle>محسن احمدی؛ مدیر محصول اسنپ‌تریپ، مدیر پروژه بانک آینده، اسکرام مستر داتین، منتور مدیریت پروژه تیوان، دانشگاه خواجه نصیر، هم‌آهنگ، می‌بینیم، سومین، وندا، پیوست</subtitle><author><name>محسن احمدی</name><email>mohsen@ahmadi.pm</email></author><entry><title type="html">ریلیزنوت؛ یا لیستی از آخرین به‌روز رسانی‌های انجام شده در سایت</title><link href="https://fa.ahmadi.pm/articles/release-note-march-2020" rel="alternate" type="text/html" title="ریلیزنوت؛ یا لیستی از آخرین به‌روز رسانی‌های انجام شده در سایت" /><published>2020-03-22T00:00:00+04:30</published><updated>2020-03-22T00:00:00+04:30</updated><id>https://fa.ahmadi.pm/articles/release-note-march-2020</id><content type="html" xml:base="https://fa.ahmadi.pm/articles/release-note-march-2020">&lt;p&gt;&lt;img src=&quot;https://fa.ahmadi.pm/assets/imgpsts/latest-changes.jpeg&quot; alt=&quot;ریلیز نوت یا لیست آخرین به‌روز رسانی‌ها&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;دلیل اصلی به‌روز نشدن سایت با یادداشت‌های همیشگی تو دو هفته گذشته مجموعه تغییراتی بود که می‌بایست برای انجام دادن اون‌ها زمان بگذارم و نیاز بود تا پایدار شدن این تغییرات که ذره ذره در حال انجام اون بودم صبر کنم.&lt;/p&gt;
 
@@ -49,10 +49,13 @@
 &lt;p&gt;&lt;strong&gt;استایل‌ها و المان‌های بهتر قالب&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;یه سری بهینه‌سازی جزیی تو &lt;a href=&quot;https://github.com/YoussefRaafatNasry/portfolYOU&quot;&gt;Theme&lt;/a&gt; استفاده شده سایت توسط توسعه دهنده اصلی اتفاق افتاده بود که باعث شد هر دو سایت انگلیسی و فارسی رو آپدیت کنم. این بهینه‌سازی شامل یه سری تغییرات در فایل‌های CSS و JS بود و بهینه‌سازی‌هایی هم در بعضی بخش‌بندی‌های مربوط به صفحات استاتیک داخلی.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;یه سری بهینه‌سازی جزیی تو &lt;a href=&quot;https://github.com/YoussefRaafatNasry/portfolYOU&quot;&gt;Theme&lt;/a&gt; استفاده شده سایت توسط توسعه دهنده اصلی اتفاق افتاده بود که باعث شد هر دو سایت انگلیسی و فارسی رو آپدیت کنم. این بهینه‌سازی شامل یه سری تغییرات در فایل‌های CSS و JS بود و بهینه‌سازی‌هایی هم در بعضی بخش‌بندی‌های مربوط به صفحات استاتیک داخلی.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;سرچ‌بار سایت یه جاهایی و تو یه شرایطی درست کار نمی‌کرد که اون هم با به‌روز رسانی قالب درست شد و حالا می‌تونید سرچ بهتری توی سایت داشته باشید.&lt;/p&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;p&gt;+‌ سرچ‌بار سایت یه جاهایی و تو یه شرایطی درست کار نمی‌کرد که اون هم با به‌روز رسانی قالب درست شد و حالا می‌تونید سرچ بهتری توی سایت داشته باشید.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://fa.ahmadi.pm/assets/imgpsts/SEOptimization.jpg&quot; alt=&quot;بهینه‌سازی برای موتورهای جستجو&quot; /&gt;&lt;/p&gt;
 
@@ -82,10 +85,13 @@
 
 &lt;p&gt;&lt;strong&gt;متریک‌های جدیدتر&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;+‌ یه سری متریک جدید برای سایت ست کردم تو آنالیتکز که تغییرات بعدی رو متناسب با اون‌ها روی سایت اعمال کنم.&lt;/p&gt;
-
 &lt;ul&gt;
-  &lt;li&gt;ترتیب قرار گرفتن المان‌ها و لینک‌های منوی بالای صفحه براساس اهمیت و کلیک‌های کاربران براساس متریک‌های قدیمی تغییر کرد.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;یه سری متریک جدید برای سایت ست کردم تو آنالیتکز که تغییرات بعدی رو متناسب با اون‌ها روی سایت اعمال کنم.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;ترتیب قرار گرفتن المان‌ها و لینک‌های منوی بالای صفحه براساس اهمیت و کلیک‌های کاربران براساس متریک‌های قدیمی تغییر کرد.&lt;/p&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;strong&gt;بهینه‌تر شدن فرایند درخواست‌های جلسات&lt;/strong&gt;&lt;/p&gt;
